@@ -15,27 +15,27 @@ This is my University of London CM3070 Final Year Project:
     ```
 
 ## Directory Structure
-- 1 - Prep.ipynb <sup>1</sup>
-- 2 - RF.ipynb <sup>1</sup>
-- 3 - ARIMA.ipynb <sup>1</sup>
-- 4 - NN.ipynb <sup>1</sup>
-- family.csv <sup>1</sup>
-- holidays_events.csv <sup>2</sup>
-- items.csv <sup>2</sup>
-- oil.csv <sup>2</sup>
-- README.md <sup>1</sup> <sup>3</sup>
-- requirements.txt <sup>1</sup> <sup>3</sup>
-- sample_submission.csv <sup>2</sup> <sup>3</sup>
-- stores.csv <sup>2</sup>
-- test.csv <sup>2</sup> <sup>3</sup>
-- train.csv <sup>2</sup>
-- transactions.csv <sup>2</sup>
-- X_test.csv <sup>1</sup> <sup>4</sup>
-- X_train.csv <sup>1</sup> <sup>4</sup>
-- y_test.csv <sup>1</sup> <sup>4</sup>
-- y_train.csv <sup>1</sup> <sup>4</sup>
+- 1 - Prep.ipynb [^1]
+- 2 - RF.ipynb [^1]
+- 3 - ARIMA.ipynb [^1]
+- 4 - NN.ipynb [^1]
+- family.csv [^1]
+- holidays_events.csv [^2]
+- items.csv [^2]
+- oil.csv [^2]
+- README.md [^1] [^3]
+- requirements.txt [^1] [^3]
+- sample_submission.csv [^2] [^3]
+- stores.csv [^2]
+- test.csv [^2] [^3]
+- train.csv[^2]
+- transactions.csv [^2]
+- X_test.csv [^4]
+- X_train.csv [^4]
+- y_test.csv [^4]
+- y_train.csv [^4]
 
-<sup>1</sup> - Downloaded from current GitHub repo: [Subway Sales Forecasting](https://github.com/ArjunPandian/subway-sales-forecasting)
-<br/><sup>2</sup> - Downloaded from Kaggle: [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data)
-<br/><sup>3</sup> - Not required for running project
-<br/><sup>4</sup> - Will be generate by project
+[^1]: Downloaded from current GitHub repo: [Subway Sales Forecasting](https://github.com/ArjunPandian/subway-sales-forecasting)
+[^2]: Downloaded from Kaggle: [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data)
+[^3]: Not required for running project
+[^4]: Will be generate by project

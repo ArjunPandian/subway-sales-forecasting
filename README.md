@@ -35,6 +35,16 @@ This is my University of London CM3070 Final Year Project:
 - y_test.csv [^4]
 - y_train.csv [^4]
 
+## Instructions
+1. Run all cells in `1 - Prep.ipynb`. This will generate `X_train.csv`, `y_train.csv`, `X_test.csv` and `y_test.csv` files.
+   > :watch: This file takes about 20 minutes to run.
+2. Run all cells in `2 - RF.ipynb`.
+   > :watch: This file takes about 3 hours to run.
+3. Run all cells in `3 - ARIMA.ipynb`.
+   > :watch: This file takes about 1 hour to run.
+4. Run all cells in `4 - NN.ipynb`.
+   > :watch: This file takes about 13 hours to run (10 hours for initial 10% data and 3 hours for final best param 100% data).
+
 [^1]: Downloaded from current GitHub repo: [Subway Sales Forecasting](https://github.com/ArjunPandian/subway-sales-forecasting)
 [^2]: Downloaded from Kaggle: [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data)
 [^3]: Not required for running project

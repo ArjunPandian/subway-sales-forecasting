@@ -1,7 +1,7 @@
 # Subway Sales Forecasting
 
 ## About
-This is my University of London CM3070 Final Year Project:
+This repo is my University of London CM3070 Final Year Project:
 - Name: `Arjun S/O Pandian`
 - Student Number: `210485925`
 - Supervisor: `Chew Jee Loong`
@@ -43,7 +43,7 @@ This is my University of London CM3070 Final Year Project:
 3. Run all cells in `3 - ARIMA.ipynb`.
    > :watch: This file takes about 1 hour to run.
 4. Run all cells in `4 - NN.ipynb`.
-   > :watch: This file takes about 13 hours to run (10 hours for initial 10% data and 3 hours for final best param 100% data).
+   > :watch: This file takes about 13 hours to run (10 hours for initial training using 10% of data to find the best parameter and an additional 3 hours for final training using 100% data with the best parameter).
 
 [^1]: Downloaded from current GitHub repo: [Subway Sales Forecasting](https://github.com/ArjunPandian/subway-sales-forecasting)
 [^2]: Downloaded from Kaggle: [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data)
